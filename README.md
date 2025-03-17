@@ -45,5 +45,3 @@ A futuristic AI command interface inspired by J.A.R.V.I.S., featuring a holograp
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ---
-
-✨ *Built with passion for futuristic AI interfaces!*
